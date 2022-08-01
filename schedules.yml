@@ -1,4 +1,4 @@
-# Script for CMI to pause Chunky
+# https://github.com/Teense/Script_CMI_Chunky
 world_render:
   Enabled: true
   MinPlayers: 0
