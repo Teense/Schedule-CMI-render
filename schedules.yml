@@ -1,0 +1,12 @@
+# Script for CMI to pause Chunky
+world_render:
+  Enabled: true
+  MinPlayers: 0
+  Feedback: true
+  Delay: 420
+  Repeat: true
+  Randomize: false
+  Commands:
+  - chunky pause
+  - delay! 120
+  - chunky continue
